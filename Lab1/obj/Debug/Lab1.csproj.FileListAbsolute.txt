@@ -1,0 +1,11 @@
+D:\Смітник\ДЗ\C#\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\Смітник\ДЗ\C#\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\Смітник\ДЗ\C#\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\Смітник\ДЗ\C#\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+D:\Смітник\ДЗ\C#\Lab1\Lab1\obj\Debug\Lab1.csproj.SuggestedBindingRedirects.cache
+D:\Смітник\ДЗ\C#\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\Смітник\ДЗ\C#\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+D:\Смітник\ДЗ\C#\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Смітник\ДЗ\C#\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\Смітник\ДЗ\C#\Lab1\Lab1\obj\Debug\Lab1.pdb
+D:\Смітник\ДЗ\C#\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
